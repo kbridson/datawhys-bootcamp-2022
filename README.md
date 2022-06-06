@@ -20,7 +20,7 @@ Session Leader(s): Jill Johnson, Hasan Mashrique
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 2. Join #general Voice Channel in Discord
-3. Check out session materials: LINK
+3. Check out session materials: https://saturn.olney.ai/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fkbridson%2Fdatawhys-bootcamp-2022&urlpath=lab%2F&branch=intro-jupyterlab&targetPath=intro-jupyterlab
 
 ## Tue 6/7 10:00-12:00
 
