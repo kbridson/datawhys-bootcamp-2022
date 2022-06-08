@@ -29,7 +29,7 @@ Session Leader(s): Katie Bridson, Jill Johnson
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 2. Join #general Voice Channel in Discord
-3. Check out session materials: LINK
+3. Check out session materials: https://saturn.olney.ai/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fkbridson%2Fdatawhys-bootcamp-2022&urlpath=lab%2Ftree%2Fintro-notebooks%3Flog%3Dhttps%3A%2F%2Flogging.olney.ai%2Fdatawhys%2Flog&branch=intro-notebooks&targetPath=intro-notebooks
 
 ## Tue 6/7 1:00-2:20
 
@@ -38,7 +38,7 @@ Session Leader(s): Katie Bridson, Jill Johnson
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 1. Join #general Voice Channel in Discord
-1. Check out session materials: LINK
+1. Check out session materials: https://saturn.olney.ai/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fkbridson%2Fdatawhys-bootcamp-2022&urlpath=lab%2Ftree%2Ftabular-data-csv%3Flog%3Dhttps%3A%2F%2Flogging.olney.ai%2Fdatawhys%2Flog&branch=tabular-data-csv&targetPath=tabular-data-csv
 
 ## Tue 6/7 2:40-4:00
 
@@ -47,7 +47,7 @@ Session Leader(s): Jill Johnson, Hasan Mashrique
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 1. Join #general Voice Channel in Discord
-1. Check out session materials: LINK
+1. Check out session materials: https://saturn.olney.ai/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fkbridson%2Fdatawhys-bootcamp-2022&urlpath=lab%2Ftree%2Fread-csv-1%3Flog%3Dhttps%3A%2F%2Flogging.olney.ai%2Fdatawhys%2Flog&branch=read-csv-1&targetPath=read-csv-1
 
 ## Wed 6/8 10:00-12:00
 
@@ -56,7 +56,7 @@ Session Leader(s): Katie Bridson, Hasan Mashrique
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 1. Join #general Voice Channel in Discord
-1. Check out session materials: LINK
+1. Check out session materials: https://saturn.olney.ai/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fkbridson%2Fdatawhys-bootcamp-2022&urlpath=lab%2Ftree%2Fread-csv-2%3Flog%3Dhttps%3A%2F%2Flogging.olney.ai%2Fdatawhys%2Flog&branch=read-csv-2&targetPath=read-csv-2
 
 ## Wed 6/8 1:00-2:20
 
@@ -65,7 +65,7 @@ Session Leader(s): Katie Bridson, Hasan Mashrique
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 2. Join #general Voice Channel in Discord
-3. Check out session materials: LINK
+3. Check out session materials: https://saturn.olney.ai/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fkbridson%2Fdatawhys-bootcamp-2022&urlpath=lab%2Ftree%2Fplotting-1%3Flog%3Dhttps%3A%2F%2Flogging.olney.ai%2Fdatawhys%2Flog&branch=plotting-1&targetPath=plotting-1
 
 ## Wed 6/8 2:40-4:00
 
@@ -74,7 +74,6 @@ Session Leader(s): Katie Bridson, Hasan Mashrique
 
 1. Sign in: https://forms.gle/WwSBKCvUbuz7Bdnd6
 1. Join #general Voice Channel in Discord
-1. Check out session materials: LINK
 
 ## Thu 6/9 10:00-12:00
 
